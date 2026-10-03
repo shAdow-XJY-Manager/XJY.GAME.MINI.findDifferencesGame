@@ -1,0 +1,176 @@
+[
+  {
+    "id": "frequency-01",
+    "title": "桌面频率工作台",
+    "a": "assets/images/frequency-01-a.png",
+    "b": "assets/images/frequency-01-b.png",
+    "hotspots": [
+      {
+        "id": "clock",
+        "label": "钟表长针方向",
+        "rect": {
+          "left": 0.819,
+          "top": 0.066,
+          "width": 0.115,
+          "height": 0.149
+        }
+      },
+      {
+        "id": "jar",
+        "label": "中间玻璃罐的铜线",
+        "rect": {
+          "left": 0.308,
+          "top": 0.091,
+          "width": 0.075,
+          "height": 0.081
+        }
+      },
+      {
+        "id": "pot",
+        "label": "桌边花盆颜色",
+        "rect": {
+          "left": 0.085,
+          "top": 0.495,
+          "width": 0.089,
+          "height": 0.12
+        }
+      },
+      {
+        "id": "washer",
+        "label": "桌面金属垫圈",
+        "rect": {
+          "left": 0.328,
+          "top": 0.825,
+          "width": 0.068,
+          "height": 0.06
+        }
+      },
+      {
+        "id": "screwdriver",
+        "label": "螺丝刀手柄颜色",
+        "rect": {
+          "left": 0.512,
+          "top": 0.744,
+          "width": 0.164,
+          "height": 0.076
+        }
+      }
+    ]
+  },
+  {
+    "id": "frequency-02",
+    "title": "夜间温室修理铺",
+    "a": "assets/images/frequency-02-a.png",
+    "b": "assets/images/frequency-02-b.png",
+    "hotspots": [
+      {
+        "id": "moon",
+        "label": "月亮形状",
+        "rect": {
+          "left": 0.092,
+          "top": 0.041,
+          "width": 0.064,
+          "height": 0.072
+        }
+      },
+      {
+        "id": "pot",
+        "label": "中间盆栽消失",
+        "rect": {
+          "left": 0.108,
+          "top": 0.325,
+          "width": 0.055,
+          "height": 0.099
+        }
+      },
+      {
+        "id": "can",
+        "label": "浇水壶颜色",
+        "rect": {
+          "left": 0.284,
+          "top": 0.331,
+          "width": 0.142,
+          "height": 0.135
+        }
+      },
+      {
+        "id": "handle",
+        "label": "工具箱提手颜色",
+        "rect": {
+          "left": 0.083,
+          "top": 0.709,
+          "width": 0.079,
+          "height": 0.062
+        }
+      },
+      {
+        "id": "flower",
+        "label": "花朵颜色",
+        "rect": {
+          "left": 0.92,
+          "top": 0.593,
+          "width": 0.063,
+          "height": 0.068
+        }
+      }
+    ]
+  },
+  {
+    "id": "frequency-03",
+    "title": "轨道信号站",
+    "a": "assets/images/frequency-03-a.png",
+    "b": "assets/images/frequency-03-b.png",
+    "hotspots": [
+      {
+        "id": "moon",
+        "label": "舷窗里的卫星消失",
+        "rect": {
+          "left": 0.223,
+          "top": 0.104,
+          "width": 0.04,
+          "height": 0.052
+        }
+      },
+      {
+        "id": "lamp",
+        "label": "中间信号灯熄灭",
+        "rect": {
+          "left": 0.565,
+          "top": 0.053,
+          "width": 0.062,
+          "height": 0.091
+        }
+      },
+      {
+        "id": "mug",
+        "label": "保温杯颜色",
+        "rect": {
+          "left": 0.377,
+          "top": 0.516,
+          "width": 0.073,
+          "height": 0.103
+        }
+      },
+      {
+        "id": "wrench",
+        "label": "桌面扳手消失",
+        "rect": {
+          "left": 0.52,
+          "top": 0.579,
+          "width": 0.105,
+          "height": 0.041
+        }
+      },
+      {
+        "id": "antenna",
+        "label": "维护无人机少一根天线",
+        "rect": {
+          "left": 0.801,
+          "top": 0.208,
+          "width": 0.035,
+          "height": 0.083
+        }
+      }
+    ]
+  }
+]
